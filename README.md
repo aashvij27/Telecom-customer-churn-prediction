@@ -1,5 +1,7 @@
 # Telecom Customer Churn Prediction
 
+Live Demo: https://telecom-customer-churn-prediction-ke5m8djdrmqkc8syyvucjw.streamlit.app/
+
 This project predicts whether a telecom customer is likely to churn using demographic, account, and service usage features. It started as a Jupyter notebook and has been refactored into a GitHub-ready machine learning project with a reproducible training script and a Streamlit demo app.
 
 ## Project Highlights
